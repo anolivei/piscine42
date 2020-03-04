@@ -1,0 +1,6 @@
+Credentials cache: API:CE24376B-9D73-4EB4-9B9A-174DB3449C0C
+        Principal: anolivei@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Nov 20 01:54:25 2019  Nov 27 01:54:25 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Nov 20 01:58:23 2019  Nov 27 01:54:25 2019  host/vogsphere.42sp.org.br@42SP.ORG.BR
